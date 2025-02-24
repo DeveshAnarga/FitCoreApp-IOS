@@ -1,35 +1,57 @@
+# 💪 FitCore – Personalized Fitness App
 
-FitCore – Personalized Fitness App
+A **personal iOS fitness and nutrition management** app that I designed and developed to streamline health tracking, personalized calorie recommendations, and activity monitoring. **FitCore** is a project I built from scratch, combining modern technologies with a user-centric design to create an intuitive, data-driven fitness experience tailored to individual needs.
 
-Technologies Used:
+---
 
-Swift, Firebase Cloud Platform
-API Integration: USDA FoodData Central, Food101
+## 🚀 Technologies Used
 
-Project Overview:
-FitCore is a holistic iOS fitness and nutrition management app developed during the FIT3178 iOS App Development course. Designed to provide personalized health insights, it integrates real-time data tracking with advanced nutritional analysis, utilizing the Harris-Benedict Equation for tailored caloric recommendations.
+- **Programming Language:** Swift  
+- **Backend Platform:** Firebase Cloud Platform  
+- **API Integrations:**  
+  - 🥗 **USDA FoodData Central** – For accurate nutritional data  
+  - 🍲 **Food101** – For comprehensive food item information  
+- **Charting & Data Visualization:** Swift Charts  
+- **Security & Authentication:** Firebase Authentication
+
+---
+
+## 📖 Project Overview
+
+**FitCore** is designed to **empower users** in managing their fitness and nutrition through real-time data tracking, dynamic caloric monitoring, and personalized health insights. The app leverages the **Harris-Benedict Equation** to provide tailored caloric recommendations, enhancing the user’s ability to meet their health and fitness goals.
+
+Built with a focus on scalability, security, and an intuitive user experience, **FitCore** seamlessly integrates multiple data sources and ensures accurate health analytics.
+
+---
 
 ## 📋 Key Features
 
 - 📊 **Advanced Nutritional Tracking:**  
-  Access detailed macro data (*calories, protein, carbs, fats*) using integrated food databases.
+  Access detailed macro data (*calories, protein, carbohydrates, fats*) from integrated food databases for precise nutritional management.
 
 - 🔥 **Dynamic Caloric Monitoring:**  
-  Real-time Swift chart logic to track daily intake/expenditure with an auto-reset at midnight.
+  Real-time **Swift Charts** logic for daily caloric intake and expenditure tracking, featuring an **automatic midnight reset**.
 
 - 🚶 **Step Tracking & Calorie Burn Calculation:**  
-  Tracks daily steps and estimates calories burned to support fitness goals.
+  Tracks daily steps and estimates total calories burned, supporting users in achieving their fitness objectives.
 
 - 📅 **Interactive Fitness Diary:**  
-  Log workouts, set goals, and monitor progress through a user-friendly diary interface.
+  Log workouts, set fitness goals, and review progress using a customizable diary interface designed for long-term tracking.
 
 - 🎨 **Intuitive User Experience:**  
-  Adheres to Apple’s **Human Interface Guidelines** for a seamless and accessible UI.
+  Built following Apple’s **Human Interface Guidelines** to ensure a clean, responsive, and accessible UI across all iOS devices.
 
 - 🔐 **Secure Data Handling:**  
-  Uses **Firebase** for efficient and secure data storage and management.
+  Utilizes **Firebase** for secure user authentication, real-time data synchronization, and encrypted cloud storage.
+
+---
+
+## 🎯 Outcome
+
+**FitCore** delivers a **comprehensive, educational, and user-centric** fitness tracking experience. By blending intuitive design with robust backend services and real-time data analytics, the app not only promotes user engagement but also helps individuals make informed decisions regarding their health and fitness.
+
+---
 
 
-Outcome:
-FitCore offers a user-centric design that enhances motivation and engagement, providing a comprehensive, educational, and accessible approach to health and fitness management.
+
 
